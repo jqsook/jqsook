@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**jqsook/jqsook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--Some of my projects are here on GitHub, feel free to check them out. If you want to know more give me a shout.
 
-Here are some ideas to get you started:
+-Automotive
+-Automation
+-Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+〠 A.S. Automotive Restoration Technology- Mcpherson College
+〄 B.S. Business Administration- Wichita State University
+
+〶 ASE T-series Master Technician
+
+U.S.A.F Veteran 2T351 Vehicle Mechanic Journeyman
