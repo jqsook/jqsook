@@ -7,6 +7,7 @@
 -Development
 
 〠 A.S. Automotive Restoration Technology- Mcpherson College
+
 〄 B.S. Business Administration- Wichita State University
 
 〶 ASE T-series Master Technician
